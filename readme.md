@@ -1,6 +1,6 @@
 # Dokan scrapping
 
-A simple program written in **PHP** and **JS** (wisth the help of JQUERY) to retrieve cards informations from the game **DOKKAN BATTLE** (https://dbz-dokkan.bngames.net/fr/).
+A simple program written in **PHP** and **JS** (with the help of **JQUERY**) to retrieve cards informations from the game **DOKKAN BATTLE** (https://dbz-dokkan.bngames.net/fr/).
 
 
 # Result
