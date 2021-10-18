@@ -37,7 +37,7 @@ function get_details(){
       },
       dataType : 'json',
       success : function(result){
-        console.log(result)
+        //console.log(result)
         document.getElementById('counterDetails').innerHTML = 'Retrieving details : ' + (i+1) + ' / ' + cards.length + ' - ' +  (((i+1)*100)/cards.length).toFixed(2) + ' %';
 
         // document.getElementById('cardResult').innerHTML += "\n";
