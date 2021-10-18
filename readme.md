@@ -37,7 +37,7 @@ Here is a sample of the result file that you will find in **RESULT/result.json**
     "super": "Non-stop Violence - Causes mega-colossal damage to enemy and lowers ATK &amp; DEF ",
     "passive": "Android's True Power - ATK +15000 when performing a Super Attack",
     "HP": {
-        "base": "13200", 
+        "base": "13200",
         "max": "17800"
     },
     "ATK": {
@@ -54,4 +54,5 @@ Here is a sample of the result file that you will find in **RESULT/result.json**
 - max stat : full dupe orb
 
 . These info are mainly coming from https://dbz.space/ and https://www.dokkanbattleoptimizer.com/
+\
 . Note that, at this is webscraping the process will take quite some time
